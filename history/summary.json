@@ -4,19 +4,19 @@
     "url": "https://www.lfmall.co.kr",
     "icon": "https://icons.duckduckgo.com/ip3/www.lfmall.co.kr.ico",
     "slug": "lfmall",
-    "status": "up",
-    "uptime": "63.73%",
-    "uptimeDay": "63.73%",
-    "uptimeWeek": "63.73%",
-    "uptimeMonth": "63.73%",
-    "uptimeYear": "63.73%",
+    "status": "down",
+    "uptime": "68.31%",
+    "uptimeDay": "68.31%",
+    "uptimeWeek": "68.31%",
+    "uptimeMonth": "68.31%",
+    "uptimeYear": "68.31%",
     "time": 3202,
     "timeDay": 3202,
     "timeWeek": 3202,
     "timeMonth": 3202,
     "timeYear": 3202,
     "dailyMinutesDown": {
-      "2023-02-01": 74
+      "2023-02-01": 76
     }
   },
   {
@@ -25,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.lfcorp.com.ico",
     "slug": "l-fcorp",
     "status": "down",
-    "uptime": "88.31%",
-    "uptimeDay": "88.31%",
-    "uptimeWeek": "88.31%",
-    "uptimeMonth": "88.31%",
-    "uptimeYear": "88.31%",
+    "uptime": "90.03%",
+    "uptimeDay": "90.03%",
+    "uptimeWeek": "90.03%",
+    "uptimeMonth": "90.03%",
+    "uptimeYear": "90.03%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1105,
-    "timeDay": 1105,
-    "timeWeek": 1105,
-    "timeMonth": 1105,
-    "timeYear": 1105,
+    "time": 1151,
+    "timeDay": 1151,
+    "timeWeek": 1151,
+    "timeMonth": 1151,
+    "timeYear": 1151,
     "dailyMinutesDown": {}
   },
   {
@@ -74,7 +74,27 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-01": 49
+      "2023-02-01": 84
+    }
+  },
+  {
+    "name": "shadowspace.port",
+    "url": "https://shadowspace.i234.me",
+    "icon": "https://icons.duckduckgo.com/ip3/shadowspace.i234.me.ico",
+    "slug": "shadowspace-port",
+    "status": "down",
+    "uptime": "29.17%",
+    "uptimeDay": "29.17%",
+    "uptimeWeek": "29.17%",
+    "uptimeMonth": "29.17%",
+    "uptimeYear": "29.17%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-02-01": 0
     }
   },
   {
@@ -88,11 +108,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 709,
-    "timeDay": 709,
-    "timeWeek": 709,
-    "timeMonth": 709,
-    "timeYear": 709,
+    "time": 781,
+    "timeDay": 781,
+    "timeWeek": 781,
+    "timeMonth": 781,
+    "timeYear": 781,
     "dailyMinutesDown": {}
   }
 ]
