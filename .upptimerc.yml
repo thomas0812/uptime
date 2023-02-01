@@ -6,23 +6,23 @@ sites:
   - name: LFMALL
     url: https://www.lfmall.co.kr
     __dangerous__insecure: true
-    maxResponseTime: 1000
+    maxResponseTime: 5000
   - name: LFcorp
     url: http://www.lfcorp.com/
     __dangerous__insecure: true
-    maxResponseTime: 1000
+    maxResponseTime: 5000
   - name: LFrecruiter
     url: https://lfcorp.recruiter.co.kr/
     __dangerous__insecure: true
-    maxResponseTime: 1000
+    maxResponseTime: 5000
   - name: shadowspace
     url: https://shadowspace.i234.me
     __dangerous__insecure: true
-    maxResponseTime: 1000     
+    maxResponseTime: 5000
   - name: naver
     url: https://www.naver.com/
     __dangerous__insecure: true
-    maxResponseTime: 1000     
+    maxResponseTime: 5000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
