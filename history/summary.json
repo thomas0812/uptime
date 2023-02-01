@@ -4,19 +4,19 @@
     "url": "https://www.lfmall.co.kr",
     "icon": "https://icons.duckduckgo.com/ip3/www.lfmall.co.kr.ico",
     "slug": "lfmall",
-    "status": "up",
-    "uptime": "67.63%",
-    "uptimeDay": "67.63%",
-    "uptimeWeek": "67.63%",
-    "uptimeMonth": "67.63%",
-    "uptimeYear": "67.63%",
+    "status": "down",
+    "uptime": "69.75%",
+    "uptimeDay": "69.75%",
+    "uptimeWeek": "69.75%",
+    "uptimeMonth": "69.75%",
+    "uptimeYear": "69.75%",
     "time": 3159,
     "timeDay": 3159,
     "timeWeek": 3159,
     "timeMonth": 3159,
     "timeYear": 3159,
     "dailyMinutesDown": {
-      "2023-02-01": 79
+      "2023-02-01": 76
     }
   },
   {
@@ -25,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.lfcorp.com.ico",
     "slug": "l-fcorp",
     "status": "down",
-    "uptime": "90.23%",
-    "uptimeDay": "90.23%",
-    "uptimeWeek": "90.23%",
-    "uptimeMonth": "90.23%",
-    "uptimeYear": "90.23%",
+    "uptime": "90.48%",
+    "uptimeDay": "90.48%",
+    "uptimeWeek": "90.48%",
+    "uptimeMonth": "90.48%",
+    "uptimeYear": "90.48%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -74,7 +74,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-01": 89
+      "2023-02-01": 95
     }
   },
   {
@@ -83,18 +83,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/shadowspace.i234.me.ico",
     "slug": "shadowspace-port",
     "status": "down",
-    "uptime": "0.63%",
-    "uptimeDay": "0.63%",
-    "uptimeWeek": "0.63%",
-    "uptimeMonth": "0.63%",
-    "uptimeYear": "0.63%",
+    "uptime": "0.23%",
+    "uptimeDay": "0.23%",
+    "uptimeWeek": "0.23%",
+    "uptimeMonth": "0.23%",
+    "uptimeYear": "0.23%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-01": 5
+      "2023-02-01": 11
     }
   },
   {
