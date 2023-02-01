@@ -2,12 +2,6 @@
 
 This repository contains the open-source uptime monitor and status page for [thkweon](https://thomas0812.github.io/uptime), powered by [Upptime](https://github.com/upptime/upptime).
 
-[![Uptime CI](https://thomas0812.github.io/uptime/workflows/Uptime%20CI/badge.svg)](https://thomas0812.github.io/uptime/actions?query=workflow%3A%22Uptime+CI%22)
-[![Response Time CI](https://thomas0812.github.io/uptime/workflows/Response%20Time%20CI/badge.svg)](https://thomas0812.github.io/uptime/actions?query=workflow%3A%22Response+Time+CI%22)
-[![Graphs CI](https://thomas0812.github.io/uptime/workflows/Graphs%20CI/badge.svg)](https://thomas0812.github.io/uptime/actions?query=workflow%3A%22Graphs+CI%22)
-[![Static Site CI](https://thomas0812.github.io/uptime/workflows/Static%20Site%20CI/badge.svg)](https://thomas0812.github.io/uptime/actions?query=workflow%3A%22Static+Site+CI%22)
-[![Summary CI](https://thomas0812.github.io/uptime/workflows/Summary%20CI/badge.svg)](https://thomas0812.github.io/uptime/actions?query=workflow%3A%22Summary+CI%22)
-
 [![Uptime CI](https://github.com/thomas0812/uptime/workflows/Uptime%20CI/badge.svg)](https://github.com/thomas0812/uptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/thomas0812/uptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/thomas0812/uptime/actions?query=workflow%3A%22Response+Time+CI%22)
 [![Graphs CI](https://github.com/thomas0812/uptime/workflows/Graphs%20CI/badge.svg)](https://github.com/thomas0812/uptime/actions?query=workflow%3A%22Graphs+CI%22)
