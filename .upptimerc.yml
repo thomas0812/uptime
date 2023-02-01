@@ -18,6 +18,10 @@ sites:
   - name: shadowspace
     url: https://shadowspace.i234.me
     __dangerous__insecure: true
+  - name: shadowspace.port
+    check: "tcp-ping"
+    url: https://shadowspace.i234.me
+    port: 443
     maxResponseTime: 5000
   - name: naver
     url: https://www.naver.com/
