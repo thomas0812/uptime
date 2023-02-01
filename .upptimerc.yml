@@ -4,9 +4,9 @@ repo: uptime # The name of this repository
 
 sites:
   - name: LFMALL
-    url: https://www.lfmall.co.kr
-    __dangerous__insecure: true
-    maxResponseTime: 5000
+    check: "tcp-ping"
+    url: www.lfmall.co.kr
+    port: 443
   - name: LFcorp
     check: "tcp-ping"
     url: www.lfcorp.com
