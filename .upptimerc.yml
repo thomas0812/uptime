@@ -9,9 +9,8 @@ sites:
     maxResponseTime: 5000
   - name: LFcorp
     check: "tcp-ping"
-    url: http://www.lfcorp.com/
+    url: www.lfcorp.com
     port: 80
-    maxResponseTime: 5000
   - name: LFrecruiter
     url: https://lfcorp.recruiter.co.kr/
     __dangerous__insecure: true
