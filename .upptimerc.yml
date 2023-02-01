@@ -23,10 +23,10 @@ sites:
   #  url: https://shadowspace.i234.me
   #  port: 443
   #  maxResponseTime: 5000
-  #- name: naver
-  #  url: https://www.naver.com/
-  #  __dangerous__insecure: true
-  #  maxResponseTime: 5000
+  - name: navertest
+    url: https://www.navtestestteer.com/
+    __dangerous__insecure: true
+    maxResponseTime: 5000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
