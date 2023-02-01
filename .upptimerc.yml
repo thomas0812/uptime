@@ -6,15 +6,23 @@ sites:
   - name: LFMALL
     url: https://www.lfmall.co.kr
     __dangerous__insecure: true
+    maxResponseTime: 1000
   - name: LFcorp
     url: http://www.lfcorp.com/
     __dangerous__insecure: true
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 1000
   - name: LFrecruiter
     url: https://lfcorp.recruiter.co.kr/
     __dangerous__insecure: true
+    maxResponseTime: 1000
   - name: shadowspace.me
     url: https://shadowspace.me
     __dangerous__insecure: true
+    expectedStatusCodes:
+      - 200
+     maxResponseTime: 1000     
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
