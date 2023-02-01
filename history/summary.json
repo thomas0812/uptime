@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3641,
-    "timeDay": 3641,
-    "timeWeek": 3641,
-    "timeMonth": 3641,
-    "timeYear": 3641,
+    "time": 3590,
+    "timeDay": 3590,
+    "timeWeek": 3590,
+    "timeMonth": 3590,
+    "timeYear": 3590,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.lfcorp.com.ico",
     "slug": "l-fcorp",
     "status": "down",
-    "uptime": "7.42%",
-    "uptimeDay": "7.42%",
-    "uptimeWeek": "7.42%",
-    "uptimeMonth": "7.42%",
-    "uptimeYear": "7.42%",
+    "uptime": "55.70%",
+    "uptimeDay": "55.70%",
+    "uptimeWeek": "55.70%",
+    "uptimeMonth": "55.70%",
+    "uptimeYear": "55.70%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-01": 15
+      "2023-02-01": 24
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1347,
-    "timeDay": 1347,
-    "timeWeek": 1347,
-    "timeMonth": 1347,
-    "timeYear": 1347,
+    "time": 1366,
+    "timeDay": 1366,
+    "timeWeek": 1366,
+    "timeMonth": 1366,
+    "timeYear": 1366,
     "dailyMinutesDown": {}
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/shadowspace.me.ico",
     "slug": "shadowspace-me",
     "status": "down",
-    "uptime": "3.48%",
-    "uptimeDay": "3.48%",
-    "uptimeWeek": "3.48%",
-    "uptimeMonth": "3.48%",
-    "uptimeYear": "3.48%",
+    "uptime": "55.75%",
+    "uptimeDay": "55.75%",
+    "uptimeWeek": "55.75%",
+    "uptimeMonth": "55.75%",
+    "uptimeYear": "55.75%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-01": 14
+      "2023-02-01": 23
     }
   }
 ]
