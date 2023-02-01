@@ -15,8 +15,8 @@ sites:
     url: https://lfcorp.recruiter.co.kr/
     __dangerous__insecure: true
     maxResponseTime: 1000
-  - name: shadowspace.me
-    url: https://shadowspace.me
+  - name: shadowspace
+    url: https://shadowspace.i234.me
     __dangerous__insecure: true
     maxResponseTime: 1000     
 
