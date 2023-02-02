@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lfmall",
     "status": "up",
-    "uptime": "73.29%",
-    "uptimeDay": "73.29%",
-    "uptimeWeek": "73.29%",
-    "uptimeMonth": "73.29%",
-    "uptimeYear": "73.29%",
-    "time": 2515,
-    "timeDay": 2515,
-    "timeWeek": 2515,
-    "timeMonth": 2515,
-    "timeYear": 2515,
+    "uptime": "91.81%",
+    "uptimeDay": "91.75%",
+    "uptimeWeek": "91.81%",
+    "uptimeMonth": "91.81%",
+    "uptimeYear": "91.81%",
+    "time": 2375,
+    "timeDay": 2279,
+    "timeWeek": 2375,
+    "timeMonth": 2375,
+    "timeYear": 2375,
     "dailyMinutesDown": {
       "2023-02-01": 118
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1314,
-    "timeDay": 1314,
-    "timeWeek": 1314,
-    "timeMonth": 1314,
-    "timeYear": 1314,
+    "time": 1311,
+    "timeDay": 1300,
+    "timeWeek": 1311,
+    "timeMonth": 1311,
+    "timeYear": 1311,
     "dailyMinutesDown": {}
   }
 ]
