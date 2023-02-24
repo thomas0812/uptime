@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lfmall",
     "status": "up",
-    "uptime": "99.63%",
+    "uptime": "99.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "99.63%",
-    "time": 1208,
-    "timeDay": 442,
-    "timeWeek": 400,
-    "timeMonth": 1208,
-    "timeYear": 1208,
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "99.64%",
+    "time": 1187,
+    "timeDay": 445,
+    "timeWeek": 405,
+    "timeMonth": 1187,
+    "timeYear": 1187,
     "dailyMinutesDown": {
       "2023-02-01": 118
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 477,
-    "timeDay": 529,
-    "timeWeek": 496,
-    "timeMonth": 477,
-    "timeYear": 477,
+    "time": 475,
+    "timeDay": 420,
+    "timeWeek": 495,
+    "timeMonth": 475,
+    "timeYear": 475,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1381,
-    "timeDay": 1239,
-    "timeWeek": 1321,
-    "timeMonth": 1381,
-    "timeYear": 1381,
+    "time": 1380,
+    "timeDay": 1327,
+    "timeWeek": 1318,
+    "timeMonth": 1380,
+    "timeYear": 1380,
     "dailyMinutesDown": {}
   }
 ]
